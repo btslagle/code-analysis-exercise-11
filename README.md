@@ -35,15 +35,15 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|  1    |  humanYears:1 |
-|       |  catYears:15  |     
-|       |  dogYears:15  | 
-|       |               |
-|  2    |  humanYears:2 |
-|       |  catYears:24  |
-|       |  dogYears:24  | 
-|       |               |
-|  10   | humanYears:10 |
+|  1    |  humanYears: 1 |
+|       |  catYears: 15  |     
+|       |  dogYears: 15  | 
+|       |                |
+|  2    |  humanYears: 2 |
+|       |  catYears: 24  |
+|       |  dogYears: 24  | 
+|       |                |
+|  10   | humanYears: 10 |
 |       |  catYears:(10-2)*4 + 24, evaluates to 56     |
 |       |  dogYears:15(10-2) * 5 + 24, evaluates to 64 | 
               
